@@ -42,7 +42,7 @@ To use this app, you can follow these steps:
 
 ## Target Audience:
 
-writeRight.AI caters to a diverse audience of writers, poets, and authors, including:
+WriteRight.AI caters to a diverse audience of writers, poets, and authors, including:
 
 - **Established Authors:** Seeking to elevate their prose, refine their style, and perfect their grammar.
 - **Aspiring Poets:** Fostering creativity, finding rhymes, and exploring the beauty of words.

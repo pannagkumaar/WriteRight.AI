@@ -1,0 +1,27 @@
+.definitions {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 25px;
+  }
+  
+  .definitions span {
+    display: inline-block;
+    padding-right: 5px;
+    line-height: 1;
+    font-weight: 700;
+  }
+
+.Grammar h3 {
+  font-size: 35px;
+  line-height: 1.5;
+  font-weight: 800;
+  margin-bottom: 0;
+  color: #724e2e;
+}
+.Grammar hr {
+  margin: 5px 0 15px 0;
+  width: 100%;
+  border: 1px solid #5f3f24;
+}
+

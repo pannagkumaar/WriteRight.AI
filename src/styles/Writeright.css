@@ -1,0 +1,75 @@
+.Writeright section {  
+  max-width: 850px;  
+  margin: 0 auto;
+  margin-bottom: 25px;
+  padding: 50px;
+  border-radius: 5px;
+  border : 4px solid  #2d1c0f;
+ 
+  /* outline: 2px solid #2d1f13; */
+  /* outline-offset: -10px; */
+  background-color: #ede8e0;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+.Writeright .search {
+  margin: auto;
+  width: 50%;
+  height: 40px;
+  border: 2px solid #724e2e;
+  border-radius: 20px;
+  background-color: #fff;
+  padding-left: 10px;
+}
+
+.Writeright .search-button {
+  height: 40px;  
+  font-size: 15px;
+  padding: 8px 20px;  
+  margin-left: 8px;
+  border-radius: 20px;
+  border: none;
+  background-color: #724e2e;
+  color: #fff;
+  text-decoration: none;
+  transition: all 150ms ease-in-out;
+}
+
+.Writeright .search-button:hover {
+  background-color: #644122;
+}
+
+.Writeright .subheading {
+  font-size: 23px;
+  font-weight: 500;
+  margin-bottom: 10px;
+  text-transform: lowercase;
+}
+
+.Writeright .suggestions {
+  margin-top: 10px;
+  font-size: 12px;
+  font-style: italic;
+  color: #000;
+}
+.Writeright .suggestions select{
+  background-color: #724e2e;
+  color: white;
+  padding: 5px;
+  border: none;
+  border-radius: 15px;
+  font-size: 10px;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+  -webkit-appearance: button;
+  appearance: button;
+  outline: none;
+
+  margin-right: 20px;
+}
+option{
+  border-radius: 15px;
+  
+}
+option[value=""][disabled] {
+  display: none;
+}

@@ -1,0 +1,28 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.App h1 {
+  font-size: 75px;
+  font-weight: 900;
+  margin: 30px 0;
+  text-align: center;
+  letter-spacing: 3px;
+  -webkit-text-stroke: 1px #ebe3d6;
+  color: #543418;
+}
+
+.App footer {
+  font-size: 17px;
+  font-weight: 600;
+  margin: 5px 0;
+  text-align: center;
+  color: #ffffff;
+  -webkit-text-stroke: 1px #bfbfbf;
+}
+

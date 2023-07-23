@@ -1,0 +1,19 @@
+.Photos img {
+  border-radius: 5px;
+}
+
+.Photos img:hover {
+  opacity: 0.7;
+}
+.Photos h3 {
+  font-size: 35px;
+  line-height: 1.5;
+  font-weight: 800;
+  margin-bottom: 0;
+  color:#724e2e;
+}
+.Photos hr {
+  margin: 5px 0 15px 0;
+  width: 100%;
+  border: 1px solid #5a3a1e;
+}
